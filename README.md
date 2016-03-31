@@ -11,6 +11,7 @@ Awesome Ports
 -----
 
   * [Yosai](https://github.com/YosaiProject/yosai) - python-based replacement for Shiro, a security framework
+  * [Spring Python] (https://github.com/springpython/springpython) - python-based replacement for Spring, a framework for people who like Factories :3
 
 Ports that have to be done
 -----
