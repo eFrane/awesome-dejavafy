@@ -19,3 +19,5 @@ Ports that have to be done
   * [YaCy](https://github.com/yacy/yacy_search_server) - a decentralized search engine
   * [OrientDB](https://github.com/orientechnologies/orientdb) - a graph-based NoSQL database
   * [apgdiff](https://apgdiff.com) - Another PostgreSQL Diff Tool (apgdiff)
+  * [Lucence](https://lucene.apache.org) - a not so decentralized search engine
+  * [Elastic Search](https://www.elastic.co/products/elasticsearch) - a fancy search engine built on top of Lucene
